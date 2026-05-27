@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.yongziri.twa",
+        "sha256_cert_fingerprints": ["E7:34:35:D0:EE:07:D5:84:DC:C2:10:C9:5A:62:A5:D6:3D:21:93:86:8B:F7:9D:E5:CC:8E:A9:67:F3:AB:5B:F7"]
+      }
+    }]

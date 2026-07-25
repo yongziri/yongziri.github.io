@@ -1,8 +1,26 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.yongziri.twa",
-        "sha256_cert_fingerprints": ["E7:34:35:D0:EE:07:D5:84:DC:C2:10:C9:5A:62:A5:D6:3D:21:93:86:8B:F7:9D:E5:CC:8E:A9:67:F3:AB:5B:F7"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yongziri.twa",
+      "sha256_cert_fingerprints": [
+        "E7:34:35:D0:EE:07:D5:84:DC:C2:10:C9:5A:62:A5:D6:3D:21:93:86:8B:F7:9D:E5:CC:8E:A9:67:F3:AB:5B:F7"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yongziri.fridge",
+      "sha256_cert_fingerprints": [
+        "2C:8A:68:F2:80:E0:A0:DF:4E:25:D0:C7:AC:8A:70:B4:2E:73:10:EB:49:79:2E:47:05:59:C3:B0:19:E2:75:0A"
+      ]
+    }
+  }
+]
